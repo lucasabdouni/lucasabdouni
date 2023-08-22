@@ -6,7 +6,7 @@ Prazer, Lucas
 
 <p>
 
-Cursando de Sistema de Informação na UNIFOA  <br/>
+Graduado em Sistema de Informação na UNIFOA  <br/>
 
 Desenvolvedor front-end !
 
